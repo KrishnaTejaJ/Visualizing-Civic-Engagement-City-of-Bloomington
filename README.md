@@ -1,1 +1,1 @@
-# Visualizing-Civic-Engagement-City-of-Bloomington
+# Visualizing Civic Engagement-City of Bloomington
